@@ -10,6 +10,10 @@ public class Hola_mundo {
 		System.out.println("Hola_Gol_Norte.\nHola Gol Sur.");
 		System.out.println("Viva el Betis.\n" +
 				"Adios a los Accionistas D.Manuel Ruiz y de Lopera .");
+		
+		System.out.println("Viva el Betis.\n" +
+				"Hola a D. Rafael Gordillo Vazquez .");
+		
 	}
 
 }
